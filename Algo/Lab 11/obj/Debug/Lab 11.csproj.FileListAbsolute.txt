@@ -1,0 +1,14 @@
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 4\Algo\Lab 11\bin\Debug\Lab 11.exe.config
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 4\Algo\Lab 11\bin\Debug\Lab 11.exe
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 4\Algo\Lab 11\bin\Debug\Lab 11.pdb
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 4\Algo\Lab 11\obj\Debug\Lab 11.csproj.AssemblyReference.cache
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 4\Algo\Lab 11\obj\Debug\Lab 11.csproj.SuggestedBindingRedirects.cache
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 4\Algo\Lab 11\obj\Debug\Lab_11.Form1.resources
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 4\Algo\Lab 11\obj\Debug\Lab_11.Properties.Resources.resources
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 4\Algo\Lab 11\obj\Debug\Lab 11.csproj.GenerateResource.cache
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 4\Algo\Lab 11\obj\Debug\Lab 11.csproj.CoreCompileInputs.cache
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 4\Algo\Lab 11\obj\Debug\Lab 11.exe
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 4\Algo\Lab 11\obj\Debug\Lab 11.pdb
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 4\Algo\Lab 11\bin\Debug\System.Data.SqlClient.dll
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 4\Algo\Lab 11\bin\Debug\System.Data.SqlClient.xml
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 4\Algo\Lab 11\obj\Debug\Lab 11.csproj.CopyComplete
