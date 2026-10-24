@@ -8,3 +8,6 @@
 *.recipe
 *.tlog
 .vs/
+
+# Additional compiler and archive metadata
+/Algo/Lab 11/obj/
